@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I'm Tejasree
+
+- I am a second year student pursuing B.Tech in Computer Science with Business Systems.
+- I enjoy working on different teams and collaborating on projects.
+- Currently exploring the fascinating world of math behind music and encryption.
+- I have experience in Machine Learning, Web Development, and Data Analysis.
 
 <!--
 **TejasreeL/TejasreeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
