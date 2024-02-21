@@ -2,7 +2,7 @@
 
 - I am a second year student pursuing B.Tech in Computer Science with Business Systems.
 - I enjoy working on different teams and collaborating on projects.
-- Currently exploring the fascinating world of math behind music and encryption.
+- Currently exploring the captivating domain of math behind music and encryption.
 - I have experience in Machine Learning, Web Development, and Data Analysis.
 
 <!--
