@@ -1,21 +1,11 @@
 ## Hi there 👋 I'm Tejasree
 
-- I am a second year student pursuing B.Tech in Computer Science with Business Systems.
-- I enjoy working on different teams and collaborating on projects.
-- Currently exploring the captivating domain of math behind music and encryption.
-- I have experience in Machine Learning, Web Development, and Data Analysis.
+- 🎓 I am a second year student pursuing B.Tech in Computer Science with Business Systems.
+- 🌐 I enjoy working on different teams and collaborating on projects.
+- 🚀 Currently exploring the captivating domain of math behind music and encryption.
+- 🤖 I have experience in Machine Learning, Web Development, and Data Analysis.
 
-<!--
-**TejasreeL/TejasreeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,r,html,css,js,bootstrap,react,nodejs,express,mysql,mongodb,linux,ubuntu,git,github,gitlab,latex,vscode&theme=light)](https://skillicons.dev)
+- 📱 Phone No. - +91 9885880126
+- 💻 Email - tejasreelokireddy@gmail.com
